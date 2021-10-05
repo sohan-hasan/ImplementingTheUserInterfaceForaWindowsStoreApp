@@ -1,0 +1,96 @@
+C:\Users\spair\source\repos\HospitalManagement\HospitalManagement\bin\x86\Debug\App.xbf
+C:\Users\spair\source\repos\HospitalManagement\HospitalManagement\bin\x86\Debug\MainPage.xbf
+C:\Users\spair\source\repos\HospitalManagement\HospitalManagement\bin\x86\Debug\HospitalManagement.xr.xml
+C:\Users\spair\source\repos\HospitalManagement\HospitalManagement\bin\x86\Debug\HospitalManagement.exe
+C:\Users\spair\source\repos\HospitalManagement\HospitalManagement\bin\x86\Debug\HospitalManagement.pdb
+C:\Users\spair\source\repos\HospitalManagement\HospitalManagement\bin\x86\Debug\resources.pri
+C:\Users\spair\source\repos\HospitalManagement\HospitalManagement\bin\x86\Debug\AppxManifest.xml
+C:\Users\spair\source\repos\HospitalManagement\HospitalManagement\bin\x86\Debug\Core\AppxManifest.xml
+C:\Users\spair\source\repos\HospitalManagement\HospitalManagement\bin\x86\Debug\Core\HospitalManagement.exe
+C:\Users\spair\source\repos\HospitalManagement\HospitalManagement\bin\x86\Debug\HospitalManagement.build.appxrecipe
+C:\Users\spair\source\repos\HospitalManagement\HospitalManagement\bin\x86\Debug\System.Runtime.dll
+C:\Users\spair\source\repos\HospitalManagement\HospitalManagement\bin\x86\Debug\Microsoft.UI.Xaml.Markup.winmd
+C:\Users\spair\source\repos\HospitalManagement\HospitalManagement\obj\x86\Debug\HospitalManagement.csprojAssemblyReference.cache
+C:\Users\spair\source\repos\HospitalManagement\HospitalManagement\obj\x86\Debug\App.g.i.cs
+C:\Users\spair\source\repos\HospitalManagement\HospitalManagement\obj\x86\Debug\App.g.cs
+C:\Users\spair\source\repos\HospitalManagement\HospitalManagement\obj\x86\Debug\MainPage.g.i.cs
+C:\Users\spair\source\repos\HospitalManagement\HospitalManagement\obj\x86\Debug\MainPage.g.cs
+C:\Users\spair\source\repos\HospitalManagement\HospitalManagement\obj\x86\Debug\XamlTypeInfo.g.cs
+C:\Users\spair\source\repos\HospitalManagement\HospitalManagement\obj\x86\Debug\App.xaml
+C:\Users\spair\source\repos\HospitalManagement\HospitalManagement\obj\x86\Debug\MainPage.xaml
+C:\Users\spair\source\repos\HospitalManagement\HospitalManagement\obj\x86\Debug\App.xbf
+C:\Users\spair\source\repos\HospitalManagement\HospitalManagement\obj\x86\Debug\MainPage.xbf
+C:\Users\spair\source\repos\HospitalManagement\HospitalManagement\obj\x86\Debug\XamlSaveStateFile.xml
+C:\Users\spair\source\repos\HospitalManagement\HospitalManagement\obj\x86\Debug\HospitalManagement.csproj.CoreCompileInputs.cache
+C:\Users\spair\source\repos\HospitalManagement\HospitalManagement\obj\x86\Debug\HospitalManagement.csproj.CopyComplete
+C:\Users\spair\source\repos\HospitalManagement\HospitalManagement\obj\x86\Debug\HospitalManagement.exe
+C:\Users\spair\source\repos\HospitalManagement\HospitalManagement\obj\x86\Debug\HospitalManagement.pdb
+C:\Users\spair\source\repos\HospitalManagement\HospitalManagement\obj\x86\Debug\ResourceHandlingTask.state
+C:\Users\spair\source\repos\HospitalManagement\HospitalManagement\obj\x86\Debug\priconfig.xml
+C:\Users\spair\source\repos\HospitalManagement\HospitalManagement\obj\x86\Debug\priconfig.xml.intermediate
+C:\Users\spair\source\repos\HospitalManagement\HospitalManagement\obj\x86\Debug\unfiltered.layout.resfiles
+C:\Users\spair\source\repos\HospitalManagement\HospitalManagement\obj\x86\Debug\unfiltered.layout.resfiles.intermediate
+C:\Users\spair\source\repos\HospitalManagement\HospitalManagement\obj\x86\Debug\filtered.layout.resfiles
+C:\Users\spair\source\repos\HospitalManagement\HospitalManagement\obj\x86\Debug\filtered.layout.resfiles.intermediate
+C:\Users\spair\source\repos\HospitalManagement\HospitalManagement\obj\x86\Debug\excluded.layout.resfiles
+C:\Users\spair\source\repos\HospitalManagement\HospitalManagement\obj\x86\Debug\excluded.layout.resfiles.intermediate
+C:\Users\spair\source\repos\HospitalManagement\HospitalManagement\obj\x86\Debug\resources.resfiles
+C:\Users\spair\source\repos\HospitalManagement\HospitalManagement\obj\x86\Debug\resources.resfiles.intermediate
+C:\Users\spair\source\repos\HospitalManagement\HospitalManagement\obj\x86\Debug\pri.resfiles
+C:\Users\spair\source\repos\HospitalManagement\HospitalManagement\obj\x86\Debug\pri.resfiles.intermediate
+C:\Users\spair\source\repos\HospitalManagement\HospitalManagement\obj\x86\Debug\qualifiers.txt
+C:\Users\spair\source\repos\HospitalManagement\HospitalManagement\obj\x86\Debug\qualifiers.txt.intermediate
+C:\Users\spair\source\repos\HospitalManagement\HospitalManagement\obj\x86\Debug\MultipleQualifiersPerDimensionFound.txt
+C:\Users\spair\source\repos\HospitalManagement\HospitalManagement\obj\x86\Debug\ProjectArchitectures.txt
+C:\Users\spair\source\repos\HospitalManagement\HospitalManagement\obj\x86\Debug\.winmd_cache\$Microsoft.UI.Xaml.Markup.winmd_637424599200000000.json
+C:\Users\spair\source\repos\HospitalManagement\HospitalManagement\bin\x86\Debug\AppStyles.xbf
+C:\Users\spair\source\repos\HospitalManagement\HospitalManagement\obj\x86\Debug\AppStyles.xaml
+C:\Users\spair\source\repos\HospitalManagement\HospitalManagement\obj\x86\Debug\AppStyles.xbf
+C:\Users\SOPA\Downloads\1261473-Sohan (1)\HospitalManagement\HospitalManagement\bin\x86\Debug\App.xbf
+C:\Users\SOPA\Downloads\1261473-Sohan (1)\HospitalManagement\HospitalManagement\bin\x86\Debug\AppStyles.xbf
+C:\Users\SOPA\Downloads\1261473-Sohan (1)\HospitalManagement\HospitalManagement\bin\x86\Debug\MainPage.xbf
+C:\Users\SOPA\Downloads\1261473-Sohan (1)\HospitalManagement\HospitalManagement\bin\x86\Debug\HospitalManagement.xr.xml
+C:\Users\SOPA\Downloads\1261473-Sohan (1)\HospitalManagement\HospitalManagement\bin\x86\Debug\HospitalManagement.exe
+C:\Users\SOPA\Downloads\1261473-Sohan (1)\HospitalManagement\HospitalManagement\bin\x86\Debug\HospitalManagement.pdb
+C:\Users\SOPA\Downloads\1261473-Sohan (1)\HospitalManagement\HospitalManagement\bin\x86\Debug\resources.pri
+C:\Users\SOPA\Downloads\1261473-Sohan (1)\HospitalManagement\HospitalManagement\bin\x86\Debug\AppxManifest.xml
+C:\Users\SOPA\Downloads\1261473-Sohan (1)\HospitalManagement\HospitalManagement\bin\x86\Debug\Core\AppxManifest.xml
+C:\Users\SOPA\Downloads\1261473-Sohan (1)\HospitalManagement\HospitalManagement\bin\x86\Debug\Core\HospitalManagement.exe
+C:\Users\SOPA\Downloads\1261473-Sohan (1)\HospitalManagement\HospitalManagement\bin\x86\Debug\HospitalManagement.build.appxrecipe
+C:\Users\SOPA\Downloads\1261473-Sohan (1)\HospitalManagement\HospitalManagement\bin\x86\Debug\System.Runtime.dll
+C:\Users\SOPA\Downloads\1261473-Sohan (1)\HospitalManagement\HospitalManagement\bin\x86\Debug\Microsoft.UI.Xaml.Markup.winmd
+C:\Users\SOPA\Downloads\1261473-Sohan (1)\HospitalManagement\HospitalManagement\obj\x86\Debug\HospitalManagement.csproj.AssemblyReference.cache
+C:\Users\SOPA\Downloads\1261473-Sohan (1)\HospitalManagement\HospitalManagement\obj\x86\Debug\App.g.i.cs
+C:\Users\SOPA\Downloads\1261473-Sohan (1)\HospitalManagement\HospitalManagement\obj\x86\Debug\App.g.cs
+C:\Users\SOPA\Downloads\1261473-Sohan (1)\HospitalManagement\HospitalManagement\obj\x86\Debug\MainPage.g.i.cs
+C:\Users\SOPA\Downloads\1261473-Sohan (1)\HospitalManagement\HospitalManagement\obj\x86\Debug\MainPage.g.cs
+C:\Users\SOPA\Downloads\1261473-Sohan (1)\HospitalManagement\HospitalManagement\obj\x86\Debug\XamlTypeInfo.g.cs
+C:\Users\SOPA\Downloads\1261473-Sohan (1)\HospitalManagement\HospitalManagement\obj\x86\Debug\App.xaml
+C:\Users\SOPA\Downloads\1261473-Sohan (1)\HospitalManagement\HospitalManagement\obj\x86\Debug\AppStyles.xaml
+C:\Users\SOPA\Downloads\1261473-Sohan (1)\HospitalManagement\HospitalManagement\obj\x86\Debug\MainPage.xaml
+C:\Users\SOPA\Downloads\1261473-Sohan (1)\HospitalManagement\HospitalManagement\obj\x86\Debug\App.xbf
+C:\Users\SOPA\Downloads\1261473-Sohan (1)\HospitalManagement\HospitalManagement\obj\x86\Debug\AppStyles.xbf
+C:\Users\SOPA\Downloads\1261473-Sohan (1)\HospitalManagement\HospitalManagement\obj\x86\Debug\MainPage.xbf
+C:\Users\SOPA\Downloads\1261473-Sohan (1)\HospitalManagement\HospitalManagement\obj\x86\Debug\XamlSaveStateFile.xml
+C:\Users\SOPA\Downloads\1261473-Sohan (1)\HospitalManagement\HospitalManagement\obj\x86\Debug\HospitalManagement.csproj.CoreCompileInputs.cache
+C:\Users\SOPA\Downloads\1261473-Sohan (1)\HospitalManagement\HospitalManagement\obj\x86\Debug\HospitalManagement.csproj.CopyComplete
+C:\Users\SOPA\Downloads\1261473-Sohan (1)\HospitalManagement\HospitalManagement\obj\x86\Debug\HospitalManagement.exe
+C:\Users\SOPA\Downloads\1261473-Sohan (1)\HospitalManagement\HospitalManagement\obj\x86\Debug\HospitalManagement.pdb
+C:\Users\SOPA\Downloads\1261473-Sohan (1)\HospitalManagement\HospitalManagement\obj\x86\Debug\ResourceHandlingTask.state
+C:\Users\SOPA\Downloads\1261473-Sohan (1)\HospitalManagement\HospitalManagement\obj\x86\Debug\priconfig.xml
+C:\Users\SOPA\Downloads\1261473-Sohan (1)\HospitalManagement\HospitalManagement\obj\x86\Debug\priconfig.xml.intermediate
+C:\Users\SOPA\Downloads\1261473-Sohan (1)\HospitalManagement\HospitalManagement\obj\x86\Debug\unfiltered.layout.resfiles
+C:\Users\SOPA\Downloads\1261473-Sohan (1)\HospitalManagement\HospitalManagement\obj\x86\Debug\unfiltered.layout.resfiles.intermediate
+C:\Users\SOPA\Downloads\1261473-Sohan (1)\HospitalManagement\HospitalManagement\obj\x86\Debug\filtered.layout.resfiles
+C:\Users\SOPA\Downloads\1261473-Sohan (1)\HospitalManagement\HospitalManagement\obj\x86\Debug\filtered.layout.resfiles.intermediate
+C:\Users\SOPA\Downloads\1261473-Sohan (1)\HospitalManagement\HospitalManagement\obj\x86\Debug\excluded.layout.resfiles
+C:\Users\SOPA\Downloads\1261473-Sohan (1)\HospitalManagement\HospitalManagement\obj\x86\Debug\excluded.layout.resfiles.intermediate
+C:\Users\SOPA\Downloads\1261473-Sohan (1)\HospitalManagement\HospitalManagement\obj\x86\Debug\resources.resfiles
+C:\Users\SOPA\Downloads\1261473-Sohan (1)\HospitalManagement\HospitalManagement\obj\x86\Debug\resources.resfiles.intermediate
+C:\Users\SOPA\Downloads\1261473-Sohan (1)\HospitalManagement\HospitalManagement\obj\x86\Debug\pri.resfiles
+C:\Users\SOPA\Downloads\1261473-Sohan (1)\HospitalManagement\HospitalManagement\obj\x86\Debug\pri.resfiles.intermediate
+C:\Users\SOPA\Downloads\1261473-Sohan (1)\HospitalManagement\HospitalManagement\obj\x86\Debug\qualifiers.txt
+C:\Users\SOPA\Downloads\1261473-Sohan (1)\HospitalManagement\HospitalManagement\obj\x86\Debug\qualifiers.txt.intermediate
+C:\Users\SOPA\Downloads\1261473-Sohan (1)\HospitalManagement\HospitalManagement\obj\x86\Debug\MultipleQualifiersPerDimensionFound.txt
+C:\Users\SOPA\Downloads\1261473-Sohan (1)\HospitalManagement\HospitalManagement\obj\x86\Debug\ProjectArchitectures.txt
+C:\Users\SOPA\Downloads\1261473-Sohan (1)\HospitalManagement\HospitalManagement\obj\x86\Debug\.winmd_cache\$Microsoft.UI.Xaml.Markup.winmd_637424599200000000.json
